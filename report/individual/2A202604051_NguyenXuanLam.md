@@ -4,7 +4,7 @@
 
 ## 0. Thông tin học viên
 
-- Họ tên: Nguyễn Xuân Lâm
+- Họ tên: Nguyễn Xuân Lam
 - MSSV: 2A202604051
 - Mã đề (A/B/C): C (task `DAY05-MOT17-09-C-2A202604051`)
 - Email: xuanlam13072004@gmail.com
